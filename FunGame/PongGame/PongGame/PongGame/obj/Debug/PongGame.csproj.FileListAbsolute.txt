@@ -1,0 +1,9 @@
+D:\C#_Project\PongGame\PongGame\PongGame\bin\Debug\PongGame.exe
+D:\C#_Project\PongGame\PongGame\PongGame\bin\Debug\PongGame.pdb
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.csprojAssemblyReference.cache
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.Form1.resources
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.Properties.Resources.resources
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.csproj.GenerateResource.cache
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.exe
+D:\C#_Project\PongGame\PongGame\PongGame\obj\Debug\PongGame.pdb

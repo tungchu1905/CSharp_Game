@@ -1,0 +1,10 @@
+D:\C#_Project\GameJump\GameJump\bin\Debug\GameJump.exe
+D:\C#_Project\GameJump\GameJump\bin\Debug\GameJump.pdb
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.csprojAssemblyReference.cache
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.Form1.resources
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.MainGame.resources
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.Properties.Resources.resources
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.csproj.GenerateResource.cache
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.csproj.CoreCompileInputs.cache
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.exe
+D:\C#_Project\GameJump\GameJump\obj\Debug\GameJump.pdb

@@ -1,0 +1,9 @@
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.csprojAssemblyReference.cache
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.Form1.resources
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.Properties.Resources.resources
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.csproj.GenerateResource.cache
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.csproj.CoreCompileInputs.cache
+D:\C#_Project\GameEatCoin\GameEatCoin\bin\Debug\GameEatCoin.exe
+D:\C#_Project\GameEatCoin\GameEatCoin\bin\Debug\GameEatCoin.pdb
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.exe
+D:\C#_Project\GameEatCoin\GameEatCoin\obj\Debug\GameEatCoin.pdb

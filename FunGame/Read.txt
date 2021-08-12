@@ -1,0 +1,11 @@
+/*
+     *  Full code idea from https:/ /www.codeproject.com/Articles/5250284/Small-WinForm-Pong-Game-Csharp 
+     *  
+     *  
+     *  this code changes a few things to make it run
+     *  
+     *  
+     *  
+     *  
+     *  
+     */
